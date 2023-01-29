@@ -8,6 +8,7 @@
     
 </ol>
 
+
     
 <h2>2 \ Select Features</h2>
 
@@ -16,4 +17,26 @@
       <li>f_classif (Chi2 / f_classif)</li>      
       <li>SelectFromModel</li>
     
+</ol>
+
+
+
+<h2>3 \ Scalling Data</h2>
+
+<ol>
+      <li>a\StandardScaler</li> 
+      <li>MinMaxScaler</li>      
+      <li>Normalizer RAWS</li>
+      <li>MaxAbsScaler COLUMNS</li>
+      <li>FunctionTransformer</li>
+      <li>Binarizer</li>
+      <li>PolynomialFeatures</li>
+</ol>
+
+
+
+<h2>4 \ Splitting Data</h2>
+
+<ol>      
+      <li>Train Test Split </li>         
 </ol>
