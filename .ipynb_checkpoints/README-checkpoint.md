@@ -2,8 +2,8 @@
 <h2>1 \ Deal With Nulls</h2>
 
 <ol>
-      <li>Simple Way (DROP)</li> 
-      <li>Fill With Zeros</li>      
+      <li>dropna Function (DROP)</li> 
+      <li>fillna Function (Fill With Zeros)</li>      
       <li>Simpleimputer Function (Fill With Mean/Median)</li>
     
 </ol>
