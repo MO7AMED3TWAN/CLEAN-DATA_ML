@@ -12,7 +12,7 @@
     
 <h2>2 \ Select Features</h2>
 
-<ol>
+<ol type="I">
       <li>SelectPercentile (Chi2 / f_classif)</li> 
       <li>f_classif (Chi2 / f_classif)</li>      
       <li>SelectFromModel</li>
@@ -23,7 +23,7 @@
 
 <h2>3 \ Scalling Data</h2>
 
-<ol>
+<ol type="I" >
       <li>a\StandardScaler</li> 
       <li>MinMaxScaler</li>      
       <li>Normalizer RAWS</li>
